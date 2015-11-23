@@ -1,0 +1,14 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "My first Node Application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marecki",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
